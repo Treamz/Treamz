@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:7C3AED,100:F472B6&height=200&section=header&text=Ivan%20Chernoknizhnikov&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20·%20Flutter%20%26%20Mobile&descAlignY=54&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:7C3AED,100:F472B6&height=200&section=header&text=Ivan%20Chernoknizhnikov&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20Dart%20%C2%B7%20Mobile&descAlignY=54&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://treamz.me/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Flutter+%2F+Dart+engineer+from+Valencia+%F0%9F%87%AA%F0%9F%87%B8;Author+of+svg_animate+%E2%80%94+125%E2%98%85+on+GitHub;I+build+apps%2C+then+I+build+the+packages+they+need;Mobile+%E2%80%A2+Firebase+%E2%80%A2+AI+%E2%80%A2+Open+source" alt="typing" />
