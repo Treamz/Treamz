@@ -54,30 +54,62 @@ const ivan = Engineer(
 
 ## ✨ Featured work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [svg_animate](https://github.com/Treamz/svg_animate)
+
+Plays SVGs that declare their own animation — SMIL or CSS keyframes — on top of the `vector_graphics` renderer that `flutter_svg` uses.
+
+[![pub](https://img.shields.io/pub/v/svg_animate?style=flat-square&color=02569B&logo=dart&logoColor=white&label=pub.dev)](https://pub.dev/packages/svg_animate)
+[![stars](https://img.shields.io/github/stars/Treamz/svg_animate?style=flat-square&color=7C3AED&logo=github&logoColor=white)](https://github.com/Treamz/svg_animate/stargazers)
+[![points](https://img.shields.io/pub/points/svg_animate?style=flat-square&color=F472B6&label=pub%20points)](https://pub.dev/packages/svg_animate/score)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [freight](https://github.com/Treamz/freight)
+
+Ship large assets outside your app bundle: iOS Managed Background Assets and Google Play Asset Delivery behind one Dart API.
+
+[![pub](https://img.shields.io/pub/v/freight?style=flat-square&color=02569B&logo=dart&logoColor=white&label=pub.dev)](https://pub.dev/packages/freight)
+[![stars](https://img.shields.io/github/stars/Treamz/freight?style=flat-square&color=7C3AED&logo=github&logoColor=white)](https://github.com/Treamz/freight/stargazers)
+[![platforms](https://img.shields.io/badge/iOS%20%2B%20Android-F472B6?style=flat-square&logo=apple&logoColor=white)](https://github.com/Treamz/freight)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 [ton_connect_dart](https://github.com/Treamz/ton_connect_dart)
+
+TON Connect 2 SDK for Dart and Flutter, implementing the current protocol specification.
+
+[![lang](https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white)](https://github.com/Treamz/ton_connect_dart)
+[![stars](https://img.shields.io/github/stars/Treamz/ton_connect_dart?style=flat-square&color=7C3AED&logo=github&logoColor=white)](https://github.com/Treamz/ton_connect_dart/stargazers)
+[![ton](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)](https://ton.org)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 [paw_vault](https://github.com/Treamz/paw_vault)
+
+Pet health archive — profiles, timeline, documents, reminders and AI-structured notes. Flutter + Firebase + Gemini, drafts always confirmed by the user.
+
+[![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/Treamz/paw_vault)
+[![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Treamz/paw_vault)
+[![gemini](https://img.shields.io/badge/Gemini-F472B6?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/Treamz/paw_vault)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<a href="https://github.com/Treamz/svg_animate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Treamz&repo=svg_animate&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=F472B6" alt="svg_animate" />
-</a>
-<a href="https://github.com/Treamz/freight">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Treamz&repo=freight&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=F472B6" alt="freight" />
-</a>
-<a href="https://github.com/Treamz/ton_connect_dart">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Treamz&repo=ton_connect_dart&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=F472B6" alt="ton_connect_dart" />
-</a>
-<a href="https://github.com/Treamz/paw_vault">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Treamz&repo=paw_vault&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=F472B6" alt="paw_vault" />
-</a>
+<sub>Also: <a href="https://github.com/Treamz/obfuscator"><b>obfuscator</b></a> — Dart source obfuscation service &nbsp;·&nbsp; <a href="https://github.com/Treamz?tab=repositories"><b>130+ public repos</b></a></sub>
 
 </div>
-
-| Project | What it is | |
-| :--- | :--- | :--- |
-| **[svg_animate](https://github.com/Treamz/svg_animate)** | Plays SVGs that declare their own animation (SMIL or CSS keyframes) on top of the `vector_graphics` renderer `flutter_svg` uses. | [![pub](https://img.shields.io/pub/v/svg_animate?style=flat-square&color=02569B&logo=dart&logoColor=white)](https://pub.dev/packages/svg_animate) |
-| **[freight](https://github.com/Treamz/freight)** | Ship large assets outside your app bundle: iOS Managed Background Assets and Google Play Asset Delivery behind one Dart API. | [![pub](https://img.shields.io/pub/v/freight?style=flat-square&color=02569B&logo=dart&logoColor=white)](https://pub.dev/packages/freight) |
-| **[ton_connect_dart](https://github.com/Treamz/ton_connect_dart)** | TON Connect 2 SDK for Dart and Flutter, implementing the current protocol specification. | ![dart](https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white) |
-| **[paw_vault](https://github.com/Treamz/paw_vault)** | Pet health archive — profiles, timeline, documents, reminders and AI-structured notes. Flutter + Firebase + Gemini. | ![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **[obfuscator](https://github.com/Treamz/obfuscator)** | Dart source code obfuscation service. | ![dart](https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white) |
 
 <br />
 
@@ -87,20 +119,17 @@ const ivan = Engineer(
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Treamz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=F472B6&ring_color=7C3AED" alt="stats" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treamz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED" alt="top languages" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Treamz&theme=tokyonight" alt="profile summary" />
+
+<br /><br />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Treamz&theme=tokyonight" alt="languages by repo" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Treamz&theme=tokyonight" alt="languages by commit" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Treamz&theme=tokyonight" alt="stats" />
 
 <br /><br />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Treamz&theme=tokyonight&hide_border=true&background=1a1b27&ring=7C3AED&fire=F472B6&currStreakLabel=7C3AED" alt="streak" />
-
-<br /><br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Treamz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7C3AED&line=F472B6&point=ffffff&area=true" alt="activity graph" />
-
-<br />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Treamz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
